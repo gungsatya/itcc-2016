@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-08-04 01:05:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 01:05:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 01:22:00 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:09 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:11 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:12 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:15 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:16 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:19 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:20 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:25:22 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 02:37:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 02:46:19 --> 404 Page Not Found: HASIL%20PENYISIHAN%20LOMBA%20WEB%20DESIGNpdf/index
+ERROR - 2016-08-04 06:37:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 06:45:57 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 08:33:00 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 08:37:41 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 09:41:04 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 10:30:55 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 11:42:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 15:12:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-08-04 15:32:33 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 17:31:34 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 17:49:35 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 17:49:36 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 17:49:37 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 17:49:39 --> 404 Page Not Found: Images/logomain.png
+ERROR - 2016-08-04 19:02:39 --> 404 Page Not Found: Images/logomain.png

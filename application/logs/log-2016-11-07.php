@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-11-07 02:27:40 --> Unable to connect to the database
+ERROR - 2016-11-07 10:27:40 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:02 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:07 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:13 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:22 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:25 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:47 --> Unable to connect to the database
+ERROR - 2016-11-07 03:26:53 --> Unable to connect to the database
+ERROR - 2016-11-07 05:25:25 --> Unable to connect to the database
+ERROR - 2016-11-07 13:25:25 --> Unable to connect to the database
+ERROR - 2016-11-07 06:23:46 --> Unable to connect to the database
+ERROR - 2016-11-07 06:23:50 --> Unable to connect to the database
+ERROR - 2016-11-07 06:23:54 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:01 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:01 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:07 --> Unable to connect to the database
+ERROR - 2016-11-07 14:24:07 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:07 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:16 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:28 --> Unable to connect to the database
+ERROR - 2016-11-07 14:24:28 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:28 --> Unable to connect to the database
+ERROR - 2016-11-07 06:24:43 --> Unable to connect to the database
+ERROR - 2016-11-07 09:21:42 --> Unable to connect to the database
+ERROR - 2016-11-07 17:21:42 --> Unable to connect to the database
+ERROR - 2016-11-07 11:41:13 --> Unable to connect to the database
+ERROR - 2016-11-07 19:41:13 --> Unable to connect to the database
